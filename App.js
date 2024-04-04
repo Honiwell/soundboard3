@@ -30,7 +30,9 @@ const HomeScreen = ({ navigation }) => {
             >
                 <Text style={styles.buttonText}>RECORD SOUNDS</Text>
             </Pressable>
+            
         </View>
+        
     );
 };
 
